@@ -5,6 +5,6 @@
 
 ## 📒 Módulo : Criando um relatório gerencial de vendas com Power BI
 
-Arquivo publicado : [Relatorio](https://github.com/lucianeb/ebook_dio/blob/main/ebook_ai.pdf)).
+Arquivo publicado : [Relatorio](https://github.com/lucianeb/powerBI_relatorio/blob/main/relatoriobi.pbix).
 
 
